@@ -2,25 +2,25 @@
   "scenario_1": {
     "scenario": 1,
     "total_deliveries": 20,
-    "completed_deliveries": 3,
-    "completion_rate": 15.0,
-    "total_distance": 16724.831582656596,
-    "total_energy": 600.0870987133853,
-    "avg_energy_per_delivery": 200.0290329044618,
+    "completed_deliveries": 1,
+    "completion_rate": 5.0,
+    "total_distance_meters": 6830.928765563332,
+    "total_energy_mah": 218.58972049802662,
+    "avg_energy_per_delivery_mah": 218.58972049802662,
     "rule_violations": 0,
-    "execution_time": 12.209575414657593,
-    "fitness_score": 179.98258025732292
+    "execution_time_seconds": 11.33139681816101,
+    "fitness_score": 28.141027950197337
   },
   "scenario_2": {
     "scenario": 2,
     "total_deliveries": 50,
     "completed_deliveries": 0,
     "completion_rate": 0.0,
-    "total_distance": 0,
-    "total_energy": 0,
-    "avg_energy_per_delivery": 0,
+    "total_distance_meters": 0.0,
+    "total_energy_mah": 0,
+    "avg_energy_per_delivery_mah": 0.0,
     "rule_violations": 0,
-    "execution_time": 7.377812147140503,
-    "fitness_score": 0.0
+    "execution_time_seconds": 2.170588254928589,
+    "fitness_score": -Infinity
   }
 }
